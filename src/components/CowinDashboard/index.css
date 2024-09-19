@@ -1,0 +1,54 @@
+/* Write your CSS here */
+.cowinapp-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.cowin-title {
+  color: #2cc6c6;
+}
+
+.Vaccination-color {
+  color: #ffffff;
+}
+
+.logo-image {
+  width: 3%;
+  margin-right: 10px;
+}
+
+.loading-container {
+  min-height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.went-wrong {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.failure-view-container {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-image {
+  width: 50%;
+}
+
+.bar-pie-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

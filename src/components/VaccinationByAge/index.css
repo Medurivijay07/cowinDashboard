@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.age-container {
+  width: 90%;
+  background-color: #1c1c2b;
+  margin: 10px;
+  padding: 30px;
+}
+
+.age-name {
+  color: #cbd5e1;
+}
